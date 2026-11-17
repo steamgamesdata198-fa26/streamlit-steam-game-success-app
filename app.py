@@ -28,4 +28,4 @@ COL_EMB = "description embeddings"
 COL_OWNERS = "Estimated owners"
 DEFAULT_DATA_PATH = "merged.csv"
 
-st.set_page(page_title="Steam Game Suggester", page_icon="🎮", layout="wide")
+st.set_page_config(page_title="Steam Game Suggester", page_icon="🎮", layout="wide")
