@@ -29,3 +29,5 @@ COL_OWNERS = "Estimated owners"
 DEFAULT_DATA_PATH = "merged.csv"
 
 st.set_page_config(page_title="Steam Game Suggester", page_icon="🎮", layout="wide")
+
+st.title("Steam Game Suggester 🎮")
