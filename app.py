@@ -22,7 +22,6 @@ COL_NAME = "Name_x"
 COL_TAGS = "tags"
 COL_DESC = "short_description"
 COL_PRICE = "price_usd"
-COL_SCORE = "success_score"
 COL_EMB = "description embeddings"
 
 COL_OWNERS = "Estimated owners"
